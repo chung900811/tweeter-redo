@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #4056A1;
+    color: #FFFFFF;
+    height: 100px;
+    width: 100vw;
+}
+.logo {
+    font-family: 'Bungee', cursive;
+    padding: 1.5em;
+}
+
+.tweet-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5em;
+    font-weight: 600;
+  }
+  
+.tweet-text i {
+color: red;
+}
