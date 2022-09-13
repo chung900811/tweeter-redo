@@ -5,6 +5,7 @@ nav {
     color: #FFFFFF;
     height: 100px;
     width: 100vw;
+    position: fixed;
 }
 .logo {
     font-family: 'Bungee', cursive;

@@ -1,0 +1,10 @@
+.userprofile {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 600px;
+    width: 100vw;
+    background-color: #ffb534;
+    background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png")
+  }
