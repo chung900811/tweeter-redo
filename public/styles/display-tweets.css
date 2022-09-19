@@ -90,3 +90,18 @@ article footer {
 .flag-retweet-like .icon:hover {
     color: #c2983b;
 }
+
+.error-section{
+    margin-top: 1em;
+    display:none;
+}
+  
+#error-message {
+display:inline;
+color:red;
+}
+  
+.fa-exclamation-triangle {
+color: red;
+}
+  
